@@ -69,7 +69,6 @@ ol {
   align-items: center;
   gap: 30px;
   width: 1140px;
-  height: 534px;
   inline-size: 100%;
 }
 
@@ -79,7 +78,7 @@ ol {
   position: relative;
   width: 711px;
   height: 386px;
-  margin-top: 95px;
+  margin-top: 77px;
 }
 
 .result__video {
@@ -96,6 +95,7 @@ ol {
   justify-content: space-between;
   align-items: flex-start;
   width: 711px;
+  margin-top: 16px;
 }
 
 .search-form__fieldset-title {
@@ -216,7 +216,7 @@ ol {
 /*ЗАГОЛОВОК*/
 
 .title {
-  margin-bottom: 25px;
+  margin-bottom: 20px;
   font-family: Oswald, sans-serif;
   font-size: 75px;
   line-height: 94%;
@@ -231,6 +231,7 @@ ol {
 /*КОНТЕЙНЕР С КАРТОЧКАМИ*/
 
 .content__list-container {
+  padding-top: 4px;
   position: relative;
   width: 399px;
   height: 298px;
